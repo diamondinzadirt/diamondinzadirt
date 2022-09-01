@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diamondinzadirt
 - 👀 I’m interested in web development and data science 
-- 🌱 I’m currently learning html , css, sass, javascript and python 
+- 🌱 I’m currently learning html , css, sass, javascript and react framework 
 - 💞️ I’m looking to collaborate on anything great 
 - 📫 How to reach me through telegram @diamondinzadirt
 
