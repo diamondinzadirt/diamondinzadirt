@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tasie John
-- 👀 I’m a Front-end Web Developer 
-- 🌱 I’m well familiar with the following technologies html , css, sass, javascript, react framework, typescript,firebase and redux
+- 👀 I’m a Front-end Web Engineer
+- 🌱 I’m well familiar with the following technologies html , css, sass, tailwindcss , javascript, react framework, next.js, typescript, firebase, supabase, OpenA , Midjourney,docket and figma
 - 💞️ I’m looking to collaborate on anything great and fascinating 
 - 📫 How to reach me through telegram/instagram/twitter @diamondinzadirt or John Tasie via LinkedIn
 <!---
