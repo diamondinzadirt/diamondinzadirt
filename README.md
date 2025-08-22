@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tasie John
+- 👋 Hi, I’m John Tasie
 - 👀 I’m a Front-end Web Engineer
 - 🌱 I’m well familiar with the following technologies html , css, sass, tailwindcss , javascript, react framework, next.js, typescript, firebase, supabase, OpenAI, Vercel , Midjourney,docket and figma
 - 💞️ I’m looking to collaborate on anything great and fascinating 
